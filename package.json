@@ -1,7 +1,7 @@
 {
   "name": "objects-in-an-airport-domain",
   "version": "1.0.0",
-  "description": "",
+  "description": "![logo](https://user-images.githubusercontent.com/44912347/202273653-1c259f67-7b01-46fc-8e4d-ccb804649e27.jpg)",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -11,5 +11,15 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonebyMo/Airport_Objects_Start.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DonebyMo/Airport_Objects_Start/issues"
+  },
+  "homepage": "https://github.com/DonebyMo/Airport_Objects_Start#readme"
 }
