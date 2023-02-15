@@ -1,11 +1,12 @@
 class Person {
-  constructor(name, bags) {
+  constructor(name) {
     this.name = name;
-    this.bags = [bags];
+    this.bags = [];
   }
 
-  addBag() {
+  addBag(bag) {
     console.log("Adding bags...");
+    this.bags.push(bag);
   }
 }
 
